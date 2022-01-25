@@ -13,5 +13,7 @@ export class StatistiqueComponent implements OnInit {
     
   }
 
+  
+
   ngOnInit(): void {}
 }
